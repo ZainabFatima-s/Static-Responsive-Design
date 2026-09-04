@@ -60,7 +60,7 @@ section {
   position: relative; /* Relative Positioning */
   width: 200px;
   height: 100px;
-  background: lightblue;
+  background: lighpink;
   margin: 20px auto;
   padding: 20px;
 }
